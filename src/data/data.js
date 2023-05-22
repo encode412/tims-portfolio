@@ -14,7 +14,7 @@ export const data=[
         name:"HTML CSS and JS Application",
         image:GT,
         github:"",
-        live:"http://geniustutorsacademy.com/",
+        live:"http://geniustutorsacademy.netlify.app",
     },
     {
         id:2,
